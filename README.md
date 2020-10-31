@@ -10,7 +10,7 @@ Can be found on telegram as [Cyberjane](https://t.me/Cyberjane_bot).
 The Support group can be reached out to at [Support](https://t.me/Giveaways_Nation), where you can ask for help about [cyberjane](https://t.me/Cyberjane_bot), discover/request new features, report bugs, and stay in the loop whenever a new update is available. 
 
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Avishekbhattacharjee/Harita-Robot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Keys-007/Harita-Robot)
 
 Credits:This Is A Fork Of Harita Bot
 
