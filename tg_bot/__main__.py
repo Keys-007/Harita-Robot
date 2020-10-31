@@ -28,18 +28,27 @@ from tg_bot.modules.translations.strings import tld
 PM_START_TEXT = """
 
 
-🙋Hello {}, My Name is {} !
-
-I'm a powerful group management bot 🤖
-
-👉Add me to your groups as admin to manage your groups with my commands🤩
-
-You can find my list of available commands with /help .
- 
-See [Basic Configuration Checklist](https://t.me/HaritaNews/10) on how to secure your group.
-
-See the Source code of this bot [Source Code](https://github.com/Avishekbhattacharjee/Harita-Robot)
+Hey There ! My name is  𝐂𝐘𝐁𝐄𝐑𝐉𝐀𝐍𝐄
+I'm here to make your group management fun and easy!
+I have lots of handy features, such as flood control, a warning system etc
+==========================
+✗ [Support Channel](t.me/joinchat/NoG_rVN12j3qaqUxCiwO7Q)
+✗ [Support Group](t.me/joinchat/NoG_rVN12j3qaqUxCiwO7Q)
+==========================
+Wanna Add me to your Group? Just click the button below!
 """
+
+buttons = [
+    [
+        InlineKeyboardButton(
+            text="Add Me To Group ➕", url="t.me/Keyss007_bot?startgroup=true"
+        ),
+        InlineKeyboardButton(text="Updates & Info 📃", url="t.me/joinchat/NoG_rVN12j3qaqUxCiwO7Q"),
+    ]
+]
+
+buttons += [[InlineKeyboardButton(text="Help & Commands ❔", callback_data="help_back")]]
+
 
 HELP_STRINGS = """
 
